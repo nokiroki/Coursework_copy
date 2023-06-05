@@ -2,7 +2,7 @@ import pandas as pd
 
 from sklearn.linear_model import LogisticRegression
 
-from utils.logging import get_logger
+from src.utils.logging import get_logger
 
 
 logger = get_logger(name=__name__)

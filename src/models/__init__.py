@@ -1,1 +1,1 @@
-from.linear_model import learn_linear_model
+from.train_sklearn_models import learn_linear_model
